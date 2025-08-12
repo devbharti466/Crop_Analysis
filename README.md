@@ -199,6 +199,3 @@ geopandas>=0.14
 - Many zeros in Production and Yield; may reflect true zero output or placeholders  
 - Correlations among numeric columns are weak in raw form; stratify by crop/state/season and clean data for better insights
 
-If you’d like, I can add a “Data Cleaning” section to the notebook with standard steps (validation, zero/NaN policies, unit checks) and export a cleaned CSV for downstream use.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83703624/2c724b95-c5a4-4acd-9d30-bc357dff72c1/CropAnalysis.ipynb
